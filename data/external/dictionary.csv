@@ -1,0 +1,11 @@
+variavel,descricao,tipo,subtipo
+Survival,"Sobrevivente 0 = No, 1 = Yes",qualitativa,nominal
+Pclass,"Ticket Class 1 = 1st, 2 = 2nd, 3 = 3rd",qualitativa,ordinal
+Sex,Gender,qualitativa,nominal
+Age,Age in years,quantitativa,contínua
+Sibsp,# of siblings / spouses aboard the Titanic,qualitativa,nominal
+Parch,# of parents / children aboard the Titanic,qualitativa,nominal
+Ticket,Ticket Number,qualitativa,nominal
+Fare,Passenger fare,quantitiva,discreta
+Cabin,Cabin Number,qualitativa,ordinal
+Embarked,Port of Embarkation,qualitativa,nominal
