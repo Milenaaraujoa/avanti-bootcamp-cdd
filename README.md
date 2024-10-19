@@ -2,6 +2,7 @@
 
 <p>Este projeto tem como objetivo analisar os perfis dos tripulantes do Titanic de aordo com sua idade, gênero e classe social para saber como isso influenciou em quem sobreviveu ao naufrágio. </p>
 
+![Survived](https://github.com/user-attachments/assets/2cb71e80-8fc1-424e-a696-0d91dc49ab62)
 
 
 <h1>Justificativa </h1>
