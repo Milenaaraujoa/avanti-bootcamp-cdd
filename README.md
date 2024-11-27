@@ -13,7 +13,7 @@ Neste projeto vemos questões como:
 <ul>
 <li> Quais fatos influenciaram na sobreviência de um tripulante?</li>
 <li> Como podemos usar esses fatores para entender a história do titanic e evitar erros nas próximas viagens de navios?</li>
-<li> Existe uma forma de melhorar os métodos de segurança para sobreviventes?</li>
+<li> Existe uma forma de melhorar os métodos de segurança para tripulantes?</li>
 </ul></p>
 
 
